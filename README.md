@@ -57,8 +57,14 @@ Possible technologies:
 ## Weekly Progress Log
 | Lab | Main Activity | Output | Status |
 |---|---|---|---|
-| Lab 1 | Lab setup and idea log | Repository, team profile, initial idea log | In progress |
+| Lab 1 | Lab setup and idea log | Repository, team profile, initial idea log | Completed |
 ## Current Status
-Write 3-5 sentences about what the team completed in Lab 1.
+1. Formed the project team and assigned roles and responsibilities.
+2. Created the GitHub repository and required folder structure.
+3. Prepared the README file, team profile, and initial IT venture idea log.
 ## Next Step
-Write what the team will do in Lab 2.
+1. Conduct opportunity scanning and identify real user problems.
+2. Evaluate the three proposed IT venture ideas.
+3. Select one venture idea for further validation and development.
+4. Begin collecting evidence through surveys, interviews, or market research.
+
